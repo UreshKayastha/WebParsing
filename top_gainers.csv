@@ -1,0 +1,242 @@
+[
+  {
+    "SN": "1",
+    "symbol": "NICFC",
+    "Company": "NIC Asia Flexi Cap Fund",
+    "LTP": "9.01",
+    "Point_Change": "0.62",
+    "Percentage_change": "7.39"
+  },
+  {
+    "SN": "2",
+    "symbol": "MKLB",
+    "Company": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
+    "LTP": "826.00",
+    "Point_Change": "46.00",
+    "Percentage_change": "5.90"
+  },
+  {
+    "SN": "3",
+    "symbol": "ENL",
+    "Company": "Emerging Nepal Limited",
+    "LTP": "803.00",
+    "Point_Change": "43.00",
+    "Percentage_change": "5.66"
+  },
+  {
+    "SN": "4",
+    "symbol": "AVYAN",
+    "Company": "Aviyan Laghubitta Bittiya Sanstha Limited",
+    "LTP": "792.00",
+    "Point_Change": "42.10",
+    "Percentage_change": "5.61"
+  },
+  {
+    "SN": "5",
+    "symbol": "SIKLES",
+    "Company": "Sikles Hydropower Limited",
+    "LTP": "404.90",
+    "Point_Change": "15.90",
+    "Percentage_change": "4.09"
+  },
+  {
+    "SN": "6",
+    "symbol": "GWFD83",
+    "Company": "12% Goodwill Finance Limited Debenture 2083",
+    "LTP": "1,066.40",
+    "Point_Change": "41.40",
+    "Percentage_change": "4.04"
+  },
+  {
+    "SN": "7",
+    "symbol": "MFLD85",
+    "Company": "9.5% Manjushree Finance Ltd. Debenture 2085",
+    "LTP": "969.00",
+    "Point_Change": "32.60",
+    "Percentage_change": "3.48"
+  },
+  {
+    "SN": "8",
+    "symbol": "SMH",
+    "Company": "Supermai Hydropower Limited",
+    "LTP": "599.00",
+    "Point_Change": "16.10",
+    "Percentage_change": "2.76"
+  },
+  {
+    "SN": "9",
+    "symbol": "NBF2",
+    "Company": "Nabil Balanced Fund - 2",
+    "LTP": "8.94",
+    "Point_Change": "0.21",
+    "Percentage_change": "2.41"
+  },
+  {
+    "SN": "10",
+    "symbol": "SBLD2082",
+    "Company": "10.5% SBL Debenture 2082",
+    "LTP": "1,081.00",
+    "Point_Change": "20.80",
+    "Percentage_change": "1.96"
+  },
+  {
+    "SN": "11",
+    "symbol": "LEMF",
+    "Company": "Laxmi Equity Fund",
+    "LTP": "9.41",
+    "Point_Change": "0.18",
+    "Percentage_change": "1.95"
+  },
+  {
+    "SN": "12",
+    "symbol": "ADBLD83",
+    "Company": "10.35% Agricultural Bank Debenture 2083",
+    "LTP": "1,144.00",
+    "Point_Change": "21.00",
+    "Percentage_change": "1.87"
+  },
+  {
+    "SN": "13",
+    "symbol": "PPCL",
+    "Company": "Panchthar Power Company Limited",
+    "LTP": "270.00",
+    "Point_Change": "4.90",
+    "Percentage_change": "1.85"
+  },
+  {
+    "SN": "14",
+    "symbol": "NIBSF2",
+    "Company": "NIBL Samriddhi Fund - 2",
+    "LTP": "7.66",
+    "Point_Change": "0.13",
+    "Percentage_change": "1.73"
+  },
+  {
+    "SN": "15",
+    "symbol": "SAND2085",
+    "Company": "10% Sanima Debenture 2085",
+    "LTP": "1,150.00",
+    "Point_Change": "19.20",
+    "Percentage_change": "1.70"
+  },
+  {
+    "SN": "16",
+    "symbol": "KDBY",
+    "Company": "Kumari Dhanabriddhi Yojana",
+    "LTP": "9.30",
+    "Point_Change": "0.14",
+    "Percentage_change": "1.53"
+  },
+  {
+    "SN": "17",
+    "symbol": "TPC",
+    "Company": "Terhathum Power Company Limited",
+    "LTP": "370.00",
+    "Point_Change": "2.90",
+    "Percentage_change": "0.79"
+  },
+  {
+    "SN": "18",
+    "symbol": "KBLD86",
+    "Company": "10.25% Kumari Bank Debenture 2086",
+    "LTP": "1,070.00",
+    "Point_Change": "7.20",
+    "Percentage_change": "0.68"
+  },
+  {
+    "SN": "19",
+    "symbol": "PHCL",
+    "Company": "Peoples Hydropower Company Limited",
+    "LTP": "326.00",
+    "Point_Change": "2.00",
+    "Percentage_change": "0.62"
+  },
+  {
+    "SN": "20",
+    "symbol": "SPHL",
+    "Company": "Sayapatri Hydropower Limited",
+    "LTP": "367.00",
+    "Point_Change": "2.00",
+    "Percentage_change": "0.55"
+  },
+  {
+    "SN": "21",
+    "symbol": "MBJC",
+    "Company": "Madhya Bhotekoshi Jalavidyut Company Limited",
+    "LTP": "302.00",
+    "Point_Change": "1.40",
+    "Percentage_change": "0.47"
+  },
+  {
+    "SN": "22",
+    "symbol": "SAPDBL",
+    "Company": "Saptakoshi Development Bank Limited",
+    "LTP": "268.00",
+    "Point_Change": "1.00",
+    "Percentage_change": "0.37"
+  },
+  {
+    "SN": "23",
+    "symbol": "SDBD87",
+    "Company": "9% Shangrila Development Bank Debenture, 2087",
+    "LTP": "850.00",
+    "Point_Change": "2.70",
+    "Percentage_change": "0.32"
+  },
+  {
+    "SN": "24",
+    "symbol": "LLBS",
+    "Company": "Laxmi Laghubitta Bittiya Sanstha Limited",
+    "LTP": "819.90",
+    "Point_Change": "2.50",
+    "Percentage_change": "0.31"
+  },
+  {
+    "SN": "25",
+    "symbol": "KEF",
+    "Company": "Kumari Equity Fund",
+    "LTP": "9.07",
+    "Point_Change": "0.02",
+    "Percentage_change": "0.22"
+  },
+  {
+    "SN": "26",
+    "symbol": "MPFL",
+    "Company": "Multipurpose Finance Company Limited",
+    "LTP": "394.80",
+    "Point_Change": "0.80",
+    "Percentage_change": "0.20"
+  },
+  {
+    "SN": "27",
+    "symbol": "NMB50",
+    "Company": "NMB 50",
+    "LTP": "10.70",
+    "Point_Change": "0.02",
+    "Percentage_change": "0.19"
+  },
+  {
+    "SN": "28",
+    "symbol": "SPDL",
+    "Company": "Synergy Power Development Limited",
+    "LTP": "255.00",
+    "Point_Change": "0.20",
+    "Percentage_change": "0.08"
+  },
+  {
+    "SN": "29",
+    "symbol": "WNLB",
+    "Company": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
+    "LTP": "845.00",
+    "Point_Change": "0.50",
+    "Percentage_change": "0.06"
+  },
+  {
+    "SN": "30",
+    "symbol": "SHINE",
+    "Company": "Shine Resunga Development Bank Limited",
+    "LTP": "392.10",
+    "Point_Change": "0.10",
+    "Percentage_change": "0.03"
+  }
+]
