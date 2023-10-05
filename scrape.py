@@ -136,7 +136,6 @@ class ShareSansarScrapper:
         columns = self.parse_columns(soup)
         today_prices = self.parse_rows(soup, columns)
         df = self.format_data(today_prices)
-        print(df)
         today_prices = df.to_dict(orient="records")
         self.save_as_json(FILE_NAME, today_prices)
         return today_prices
