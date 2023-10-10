@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.support.select import Select
 from bs4 import BeautifulSoup
 import pandas as pd
 import json
@@ -15,6 +16,11 @@ service=ChromeService
 driver = webdriver.Chrome()
 driver.maximize_window()
 driver.get("https://www.sharesansar.com/top-losers")
+
+drop_list=driver.find_element(By.XPATH,'//*[@id="myTable_length"]/label/select')
+select=Select(drop_list)
+select.select_by_value("150")
+time.sleep(0.28)
 matches=driver.find_elements(By.XPATH,'//*[@id="myTable"]/thead/tr/th')
 matches_body=driver.find_elements(By.XPATH,'//*[@id="myTable"]/tbody/tr')
 sn=[]

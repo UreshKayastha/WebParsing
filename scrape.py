@@ -71,7 +71,6 @@ class ShareSansarScrapper:
         url = urljoin(self.base_url, TODAY_PRICE_URL)
         response = self.fetch_response(url)
         soup = BeautifulSoup(response, "html.parser")
-        print(soup)
         return soup
 
     def parse_columns(self, soup: BeautifulSoup) -> list:
@@ -85,8 +84,7 @@ class ShareSansarScrapper:
                 if not column.isidentifier():
                     column = "_" + column
                 columns.append(column)
-        print(columns)
-        return columns
+            return columns
     
 
     def parse_rows(self, soup: BeautifulSoup, columns: list) -> list[dict]:
